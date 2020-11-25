@@ -1,3 +1,3 @@
-#ESCUELA POLITECNICA NACIONAL
-#Desarrollo de aplicaciones móviles
-#App: CV
+<h1>ESCUELA POLITECNICA NACIONAL</h1>
+Desarrollo de aplicaciones móviles
+App: CV
